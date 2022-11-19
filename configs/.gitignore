@@ -1,6 +1,6 @@
 
 #ignoring all files in node_modules
-node_module/
+node_modules
 
 #ignore all .log files
 
